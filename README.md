@@ -1,1 +1,0 @@
-# alhodood_frontend
